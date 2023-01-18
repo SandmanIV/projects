@@ -1,2 +1,0 @@
-# projects
-general project repository
